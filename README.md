@@ -1,4 +1,4 @@
-# grid_cell_exercise
+# public grid cell exercise
 
 ## Installation instructions
 
