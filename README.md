@@ -1,6 +1,11 @@
-# grid_cell_exercise
+# public grid cell exercise
 
 ## Installation instructions
+
+To access this repository please clone it with git, i.e.:
+```
+git clone https://github.com/damaggu/grid_cell_exercise_public.git
+```
 
 Please set up a clean python environment and install packages from the requriements.txt . If you are using pip please do so, the following way:
 ```
